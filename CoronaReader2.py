@@ -56,7 +56,7 @@ def moving_average(data_set, periods=6):
 
 # Create URL to CSV (since 27-03) file (alternatively this can be a filepath)
 #
-#urlxls = 'https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-07-03.xlsx'
+#urlxls = 'https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-12-14.xlsx'
 #xlsFile = requests.get(url, allow_redirects=True)
 
 urlcsv='https://opendata.ecdc.europa.eu/covid19/casedistribution/csv'
